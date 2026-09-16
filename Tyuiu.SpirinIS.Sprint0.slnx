@@ -3,6 +3,6 @@
     <Project Path="Tyuiu.SpirinIS.Sprint0.Task0.V0/Tyuiu.SpirinIS.Sprint0.Task0.V0.csproj" Id="0a3a0964-21bb-493d-806c-c56c17f59573" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.SpirinIS.Sprint0.Task1.V1/Tyuiu.SpirinIS.Sprint0.Task1.V1.csproj" Id="d9602b46-5d83-4802-8dd9-41ae00c3a03f" />
+    <Project Path="Tyuiu.SpirinIS.Sprint0.Task1.V1/Tyuiu.SpirinIS.Sprint0.Task1.V0.csproj" Id="d9602b46-5d83-4802-8dd9-41ae00c3a03f" />
   </Folder>
 </Solution>
